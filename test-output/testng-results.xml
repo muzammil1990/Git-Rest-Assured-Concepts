@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10441" started-at="2022-02-21T16:05:56Z" finished-at="2022-02-21T16:06:07Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10441" started-at="2022-02-21T16:05:56Z" finished-at="2022-02-21T16:06:07Z">
+      <class name="com.volvo.restassuredbasics.beginner.OAuthTest_AuthorizationCode">
+        <test-method status="PASS" signature="buildingOAuthGrantType()[pri:0, instance:com.volvo.restassuredbasics.beginner.OAuthTest_AuthorizationCode@56235b8e]" name="buildingOAuthGrantType" duration-ms="10366" started-at="2022-02-21T21:35:56Z" finished-at="2022-02-21T21:36:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- buildingOAuthGrantType -->
+      </class> <!-- com.volvo.restassuredbasics.beginner.OAuthTest_AuthorizationCode -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
